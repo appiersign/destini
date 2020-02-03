@@ -14,6 +14,12 @@ In this challenge, I built a choose your own adventure game like Bandersnatch. I
 
 ![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
 
+## Installations
+
+- Android Studio or IDE of choice
+- Flutter SDK
+- Virtual or Physical Device for testing and preview
+
 ## Authors
 
 👤 **Solomon Appier-Sign**

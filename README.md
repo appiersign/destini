@@ -21,3 +21,7 @@ In this challenge, I built a choose your own adventure game like Bandersnatch. I
 - Github: [@githubhandle](https://github.com/appiersign)
 - Twitter: [@appiersign](https://twitter.com/appiersign)
 - Linkedin: [linkedin](https://www.linkedin.com/in/solomon-appier-sign/)
+
+## 🤝 Contributing
+
+This project is for educational purposes only, suggestions are accepted, but no contributions.

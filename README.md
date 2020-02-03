@@ -19,6 +19,8 @@ In this challenge, I built a choose your own adventure game like Bandersnatch. I
 - Android Studio or IDE of choice
 - Flutter SDK
 - Virtual or Physical Device for testing and preview
+- Run flutter get to install required packages
+- Select the attached device and click run
 
 ## Authors
 
